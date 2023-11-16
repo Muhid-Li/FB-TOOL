@@ -27,8 +27,9 @@ FB_TOOLS is a command-line tool developed by Muhid that provides various functio
 1. Clone the repository:
 
 
-git clone https://github.com/Muhid-Li
-cd FB_TOOLS
+git clone https://github.com/Muhid-Li/FB-TOOL
+
+cd FB-TOOL
 
 Run the script:
 python fb_tools.py
